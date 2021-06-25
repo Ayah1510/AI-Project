@@ -1,3 +1,4 @@
 # AI-Project
 This project finds the shortest path between multiple cities based on the distances or the transprtation costs.
-It is implemented using greedy and breadth algorithms 
+It is implemented using greedy and breadth algorithms.
+Created for AI Course with my partner Lujain Abusada.

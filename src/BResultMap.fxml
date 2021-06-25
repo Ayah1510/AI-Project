@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+
+<AnchorPane prefHeight="550.0" prefWidth="650.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BResultMap">
+   <children>
+      <ImageView fitHeight="550.0" fitWidth="650.0" pickOnBounds="true">
+         <image>
+            <Image url="@pic/mapGreedy.png" />
+         </image>
+      </ImageView>
+      <Line fx:id="YafoGaza" endX="-105.0" endY="122.0" fill="BLACK" layoutX="261.0" layoutY="374.0" startX="-56.0" startY="-103.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="JerichoTib" endX="-28.0" endY="139.0" fill="BLACK" layoutX="432.0" layoutY="184.0" startX="-30.0" startY="-94.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="YafoHaifa" endX="-62.0" endY="2.0" fill="BLACK" layoutX="272.0" layoutY="259.0" startX="-53.0" startY="-108.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="HebBeth" endX="-83.0" endY="-1.0" fill="BLACK" layoutX="411.0" layoutY="454.0" startX="-61.0" startY="-54.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="GazaBir" endX="-116.0" endY="128.0" fill="BLACK" layoutX="271.0" layoutY="384.0" startX="9.0" startY="135.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="GazaHebron" endX="-110.0" endY="119.0" fill="BLACK" layoutX="271.0" layoutY="384.0" startX="51.0" startY="77.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="BirHebron" endX="17.0" endY="128.0" fill="BLACK" layoutX="271.0" layoutY="384.0" startX="52.0" startY="78.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="BethJer" endX="46.0" endY="111.0" fill="BLACK" layoutX="304.0" layoutY="280.0" startX="52.0" startY="78.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="JerichoRam" endX="5.0" endY="72.0" fill="BLACK" layoutX="344.0" layoutY="247.0" startX="52.0" startY="78.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="JerichoJer" endX="11.0" endY="97.0" fill="BLACK" layoutX="349.0" layoutY="252.0" startX="50.0" startY="79.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="YafoJer" endX="-92.0" endY="-10.0" fill="BLACK" layoutX="304.0" layoutY="280.0" startX="49.0" startY="74.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="JerRam" endX="62.0" endY="97.0" fill="BLACK" layoutX="291.0" layoutY="247.0" startX="54.0" startY="79.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="NablusSalf" endX="19.0" endY="115.0" fill="BLACK" layoutX="304.0" layoutY="153.0" startX="56.0" startY="76.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="RamNablus" endX="34.0" endY="161.0" fill="BLACK" layoutX="312.0" layoutY="153.0" startX="52.0" startY="78.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="RamSalf" endX="80.0" endY="116.0" fill="BLACK" layoutX="261.0" layoutY="199.0" startX="58.0" startY="79.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="JerichoNab" endX="86.0" endY="172.0" fill="BLACK" layoutX="314.0" layoutY="151.0" startX="52.0" startY="78.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="YafoQalq" endX="-32.0" endY="100.0" fill="BLACK" layoutX="247.0" layoutY="165.0" startX="52.0" startY="78.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="YafoTulk" endX="-40.0" endY="140.0" fill="BLACK" layoutX="251.0" layoutY="125.0" startX="54.0" startY="82.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="QalqTulk" endX="40.0" endY="101.0" fill="BLACK" layoutX="261.0" layoutY="132.0" startX="46.0" startY="79.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="SalfQalq" endX="40.0" endY="49.0" fill="BLACK" layoutX="264.0" layoutY="193.0" startX="51.0" startY="72.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="NablusTubas" endX="57.0" endY="98.0" fill="BLACK" layoutX="309.0" layoutY="125.0" startX="60.0" startY="73.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="YafoSalf" endX="-50.0" endY="68.0" fill="BLACK" layoutX="264.0" layoutY="200.0" startX="49.0" startY="75.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="NablusTulk" endX="32.0" endY="-189.0" fill="BLACK" layoutX="281.0" layoutY="394.0" startX="78.0" startY="-170.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="JeninTulk" endX="24.0" endY="101.0" fill="BLACK" layoutX="291.0" layoutY="101.0" startX="52.0" startY="78.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="NazTib" endX="6.0" endY="120.0" fill="BLACK" layoutX="341.0" layoutY="5.0" startX="52.0" startY="84.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="KarmNah" endX="98.0" endY="126.0" fill="BLACK" layoutX="210.0" layoutY="-48.0" startX="54.0" startY="82.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="AkkoNah" endX="39.0" endY="140.0" fill="BLACK" layoutX="207.0" layoutY="-44.0" startX="53.0" startY="76.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="AkkoHiafa" endX="35.0" endY="117.0" fill="BLACK" layoutX="184.0" layoutY="27.0" startX="58.0" startY="75.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="KarmTib" endX="-24.0" endY="69.0" fill="BLACK" layoutX="337.0" layoutY="11.0" startX="58.0" startY="74.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="AkkoKarm" endX="-6.0" endY="99.0" fill="BLACK" layoutX="254.0" layoutY="1.0" startX="53.0" startY="82.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="NazAkko" endX="-45.0" endY="59.0" fill="BLACK" layoutX="291.0" layoutY="43.0" startX="51.0" startY="81.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="JeninNaz" endX="54.0" endY="127.0" fill="BLACK" layoutX="291.0" layoutY="47.0" startX="54.0" startY="86.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="JeninTib" endX="9.0" endY="162.0" fill="BLACK" layoutX="341.0" layoutY="11.0" startX="57.0" startY="78.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="NablusJenin" endX="101.0" endY="86.0" fill="BLACK" layoutX="261.0" layoutY="135.0" startX="90.0" startY="45.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="NablusQalq" endX="44.0" endY="102.0" fill="BLACK" layoutX="261.0" layoutY="135.0" startX="96.0" startY="91.0" stroke="#4d4141" strokeWidth="3.0" />
+      <Line fx:id="NazKerm" endX="85.0" endY="119.0" fill="BLACK" layoutX="256.0" layoutY="1.0" startX="54.0" startY="82.0" stroke="#4d4141" strokeWidth="3.0" />
+   </children>
+</AnchorPane>

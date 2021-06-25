@@ -1,0 +1,10 @@
+Bethlehem:Ramallah,21,Hebron,9.5,Jericho,21
+Hebron:Ramallah,28,Bethlehem,9.5,Jericho,50
+Jenin:Ramallah,35,Tulkarm,15,Nablus,16,Jericho,39,Tubas,8,Qalqilia,27
+Jericho:Ramallah,18,Nablus,26,Jenin,39,Tubas,27,Hebron,50,Bethlehem,21
+Nablus:Jenin,16,Jericho,26,Qalqilia,11.5,Ramallah,17,Salfit,9,Tubas,8.5,Tulkarm,10
+Qalqilia:Nablus,11.5,Salfit,16,Tulkarm,11.5,Ramallah,24,Jenin,27,Jericho,38
+Ramallah:Jericho,18,Qalqilia,24,Nablus,17,Salfit,13,Jenin,35,Bethlehem,21,Tubas,22,Hebron,28
+Salfit:Nablus,9,Qalqilia,16,Ramallah,13,Jericho,55,Tulkarm,24
+Tubas:Nablus,8.5,Ramallah,22,Jenin,8,Jericho,27,Tulkarm,13
+Tulkarm:Jenin,15,Qalqilia,11.5,Nablus,10,Ramallah,24,Jericho,35
